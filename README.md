@@ -13,3 +13,6 @@ git branch
     
     ## Return to the main branch (only bc it already exists)
 git checkout main
+
+    ## Merge the feature1 branch into the main branch
+git merge feature1
